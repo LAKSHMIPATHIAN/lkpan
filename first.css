@@ -1,0 +1,60 @@
+*{
+    flex: auto;
+}
+
+
+.header  {
+    border:8px solid green;
+    text-align: center;
+    background-image : url(/ka.jpg);
+color: blue;
+}
+.nav{
+    border: 7px solid greenyellow;
+    width: auto;
+    height: 50px;
+    background-image: url(/la.jpg);
+    background-position: bottom;
+    margin-top: 5px;
+}
+.items{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(250, 46, 10);
+}
+.litems{
+    width: 100px;
+    float: left;
+}
+.box h1{
+    
+    text-align: center;
+
+}
+.mainimg{
+    margin: 10px;
+}
+.footer{
+    border: 3px solid black;
+    text-align: center;
+    background-color: rgb(47, 128, 0);
+}
+#il{
+    font-size: 20px;
+}
+#ka{
+    border: 2px solid grey;
+}
+#ka:hover{
+
+    color: rgb(0, 0, 10);
+    background-color: blue;
+    border: 2px solid black;
+
+}
+.lm{
+    align-items: center;
+    background-image: url(/m.jpg);
+}
